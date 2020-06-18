@@ -1,0 +1,34 @@
+.headerText {
+  margin: 34px 0 !important;
+}
+
+.headerText__textLink,
+.textLinkBottom {
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: rgb(52, 50, 59);
+  line-height: 30px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.textLinkBottom,
+.inputFieldCheckbox label {
+  font-size: 15.5px;
+}
+
+.textLinkBottom a {
+  color: rgb(52, 50, 59);
+}
+
+.headerText__textLink {
+  font-size: 17px;
+}
+
+.headerText__textLink a {
+  color: rgb(246, 57, 84);
+  text-decoration: none;
+}
+
+.headerText__textLink a:hover {
+  text-decoration: underline;
+}
